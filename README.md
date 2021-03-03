@@ -1,2 +1,4 @@
 # gbtools
-Deployment &amp; admin tool written in PowerShell. 
+Deployment &amp; user admin module written in PowerShell. 
+
+
